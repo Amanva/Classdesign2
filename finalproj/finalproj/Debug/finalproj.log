@@ -1,0 +1,3 @@
+﻿  Source2.cpp
+C:\Users\amanv\source\repos\finalproj\finalproj\Source2.cpp(36): warning C4715: 'anyPrime': not all control paths return a value
+  finalproj.vcxproj -> C:\Users\amanv\source\repos\finalproj\Debug\finalproj.exe
